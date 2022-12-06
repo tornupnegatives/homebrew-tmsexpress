@@ -1,8 +1,8 @@
 class TmsExpress < Formula
   desc "LPC speech encoder for the TMS5220"
   homepage "https://github.com/tornupnegatives/TMS-Express"
-  url "https://github.com/tornupnegatives/TMS-Express/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "9a3e4823a0c535c5a2cbb84efd8d57b1909822b80e39ffdb2194e9f680593d21"
+  url "https://github.com/tornupnegatives/TMS-Express/archive/refs/tags/v1.1.1.tar.gz"
+  sha256 "c00e54d1d2148b333fc12d2691f17ed457e54ce39e59b8516ddbc2e1f9597e6d"
   license "GPL-3.0"
 
   depends_on "cmake" => :build
